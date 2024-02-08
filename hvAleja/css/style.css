@@ -1,0 +1,161 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+
+.lateral{
+    width: 40%;
+    height: 200vh; 
+    background-color: #035f5f;
+    
+}
+
+.lateral aside{
+    width: 10%;
+    height: 30px;
+
+
+}
+
+
+.fondo {
+    background-color: aliceblue;
+    width: 30%;
+    height: 53%;
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    margin: 16px 62px;
+}
+
+.lateral img{
+    width: 27vw;
+    height: 300px;
+    border-radius: 50%;
+    margin-left: 71px;
+    margin-top: 28px;
+    position: relative;
+    border: solid 8px #035f5f;
+
+}
+    
+
+.lateral p{
+    color: white;
+    margin-top: 50px;
+    margin-left: 112px;
+    width: 600%;
+    
+
+}
+
+.conta{
+    position: relative;
+    margin-top: -63px;
+
+}
+
+   
+
+.lateral h2{
+    margin-top: 555px;
+    margin-left: 107px;
+    background-color: rgb(216, 198, 37);
+    padding: 17px;
+    width: 55%;
+    height: 22px;
+    
+}
+.lateral ul{
+    margin-left: 131px;
+    margin-top: 57px;
+    color: white;
+}
+
+.lateral li{
+    margin-bottom: 10px;
+
+}
+
+.EDUCACIÓN{
+    color: white;
+    margin-left: 107px;
+    margin-top: 51px;
+    position: absolute;
+    border-bottom: inset;
+    border-color:rgb(216, 198, 37);
+    width: 25%;
+    
+
+}
+
+.estudio{
+    width: 57%;
+    margin-top: 127px;
+    margin-left: 91px;
+    color: white;
+    font-size: 13px;
+}
+
+.estudio h3{
+    margin: 20px;
+}
+
+
+ 
+.centro {
+    position:center;
+    margin-top: -1156px;
+    width: 60%;
+    float: right;
+
+}
+
+.centro h1 {
+    font-size: 50px;
+    margin-top: -6px;
+    margin-left: 30px;
+}
+
+.ocupacion{
+    position: absolute;
+    margin-left: 32px;
+    margin-top: 8px;
+}
+
+.laboral{
+    margin-top: 81px;
+    margin-left: 23px;
+    border-bottom: outset;
+    border-color: #29c1c1;
+    width: 55vw;
+   
+}
+
+
+.parrafo1{
+    margin: 28px;
+    margin-top: 2em;
+}
+
+.parrafo1 p{
+
+    margin: 15px;
+}
+
+.cursos{
+    margin-left: 27px;
+    border-color: #29c1c1;
+    border-bottom: inset 3px #035f5f;
+    width: 55vw;
+}
+
+.parrafo2{
+    margin-left: 24px;
+  
+}
+
+.parrafo2 p{
+
+    margin: 18px;
+}
